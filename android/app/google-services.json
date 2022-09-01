@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21208205962",
+    "project_id": "stsm-rakib",
+    "storage_bucket": "stsm-rakib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21208205962:android:468c9673e654b85582fb73",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21208205962-v8h1jls07c2r45vhkf4qt4cphtdkkjhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sms",
+            "certificate_hash": "143c213baf82591e40533f5532c86240faac5725"
+          }
+        },
+        {
+          "client_id": "21208205962-a735f1pqpss9idqurkoiikboisiplugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA7fpBDmx_j9hH1s2kYaADFudo09KqmtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21208205962-a735f1pqpss9idqurkoiikboisiplugl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
